@@ -17,7 +17,18 @@
 8. GitHub扩展语法
 9. 其它
 
-[内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明")
+[内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明,需要与链接在同一括号内")
+
+### 基础内容
+
+大部分markdown格式指令后需要一个空格然后接内容，否则会无效
+
+就如#哈哈哈，该一级标题未生效
+
+段落以单行或多行空白为界
+
+如未留空则
+回车也没用，要留空白行会分段
 
 
 ### 二级标题，代码格式化
