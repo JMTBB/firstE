@@ -1,4 +1,7 @@
 # firstE
+
+> The practice of Github.
+
 此文档用于学习markdown在GitHub上的一些基本操作
 
 主要包括以下内容
@@ -14,9 +17,8 @@
 8. GitHub扩展语法
 9. 其它
 
-[内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/)
+[内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/)"双引号添加链接说明"
 
-> The practice of Github.
 
 ## 二级标题，多行代码引用
 ```
