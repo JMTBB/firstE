@@ -20,13 +20,18 @@
 [内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明")
 
 
-## 二级标题，多行代码引用
+## 二级标题，代码格式化
+> 代码引用主要用的反引号，位于数字1左边。
+> 单行代码使用前后各一个反引号，多行时段前段后各3个反引号
+
+` print("单行代码格式化") `
+
 ```
 #include<iostream>
 using namespace std;
 void main()
 {
-   cout<<"Hello World"<<endl;
+   cout<<"多行代码格式化"<<endl;
 }
 ```
 
