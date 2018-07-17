@@ -1,5 +1,9 @@
 # FirstE
 
+***
+
+__前言__
+
 > The practice of Github.
 
 此文档用于学习markdown在GitHub上的一些基本操作
@@ -8,7 +12,11 @@
 
 [官方文档](https://guides.github.com/features/mastering-markdown/)
 
-主要包括以下内容
+[内容参考](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明,需要与链接在同一括号内")
+
+***
+
+__主要包括以下内容__
 
 **有序列表为数字+一个英文句号**
 1. markdown基础
@@ -23,7 +31,6 @@
 8. GitHub扩展语法
 9. 其它
 
-[内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明,需要与链接在同一括号内")
 
 图片测试: ![click](http://static.oschina.net/uploads/img/201304/17033908_N1hN.jpg)
 
@@ -56,7 +63,7 @@ _看起来可以**复合**使用_
 
 ` print("单行代码格式化") `
 
-```
+``` c
 #include<iostream>
 using namespace std;
 void main()
@@ -77,8 +84,6 @@ void main()
 #### ~~四个#号~~
 
 ### 表格
-
-
 
 暑假干什么 | 寒假干什么 
 --------- | ---------
