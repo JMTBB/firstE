@@ -4,6 +4,8 @@
 
 此文档用于学习markdown在GitHub上的一些基本操作
 
+[官方文档](https://guides.github.com/features/mastering-markdown/)
+
 主要包括以下内容
 
 **有序列表为数字+一个英文句号**
@@ -20,6 +22,9 @@
 9. 其它
 
 [内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明,需要与链接在同一括号内")
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ### 基础内容
 
