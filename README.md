@@ -23,7 +23,7 @@
 
 [内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明,需要与链接在同一括号内")
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](http://static.oschina.net/uploads/img/201304/17033907_yA2V.jpg)
 Format: ![Alt Text](url)
 
 ### 基础内容
