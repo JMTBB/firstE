@@ -27,6 +27,8 @@
 
 图片测试: ![click](http://static.oschina.net/uploads/img/201304/17033908_N1hN.jpg)
 
+***图片为\! + 方括号\[加入一些标识信息\] + 括号\(括号内为URL\)
+
 ### 基础内容
 
 大部分markdown格式指令后需要一个空格然后接内容，否则会无效
