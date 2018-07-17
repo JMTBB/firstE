@@ -61,7 +61,7 @@ void main()
 
 ### 关于标题以及删除号
 > 标题大小由其前面有多少#号决定。
-> 前后1`紧挨`着两个“ ~~ ”既有删除号。(大部分需要空一格)
+> 前后1 __`紧挨`__ 着两个“ ~~ ”既有删除号。(大部分需要空一格)
 
 如
 
@@ -74,7 +74,6 @@ void main()
 
 暑假干什么 | 寒假干什么 
 --------- | ---------
-
-| contentone | contenttwo |
-| test | consquence |
+contentone | contenttwo
+test | consquence 
 
