@@ -4,6 +4,8 @@
 
 此文档用于学习markdown在GitHub上的一些基本操作
 
+![GitHub Logo](http://static.oschina.net/uploads/img/201304/17033907_yA2V.jpg)
+
 [官方文档](https://guides.github.com/features/mastering-markdown/)
 
 主要包括以下内容
@@ -23,9 +25,7 @@
 
 [内容参考于此处](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明,需要与链接在同一括号内")
 
-![GitHub Logo](http://static.oschina.net/uploads/img/201304/17033907_yA2V.jpg)
-
-百度logo: ![click](https://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_Pclogo_6ysd4c7a&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pc)
+图片测试: ![click](http://static.oschina.net/uploads/img/201304/17033908_N1hN.jpg)
 
 ### 基础内容
 
