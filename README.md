@@ -24,6 +24,8 @@ __前言__
 
 [内容参考](https://www.yaosansi.com/post/markdown-on-github/ "双引号添加链接说明,需要与链接在同一括号内")
 
+[Ubuntu的markdown文档](http://wowubuntu.com/markdown/#html "包含较多HTML内容")
+
 ***
 
 __主要包括以下内容__
