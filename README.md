@@ -2,6 +2,8 @@
 
 ***
 
+` 三个\*号即为一条分割线 ↑ ↑ ↑ `
+
 __前言__
 
 > The practice of Github.
