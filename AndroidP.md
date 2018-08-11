@@ -9,3 +9,4 @@ GSI 的AndroidP
 ### Solution
 - 三段式
 **可在Google Play上下载Notification Slider可以使用三段式开关（alert slider）**
+![Notification Slider](https://github.com/JMTBB/firstE/blob/master/Screenshot_20180811-183428.png "手机截图")
