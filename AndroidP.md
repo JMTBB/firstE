@@ -6,3 +6,6 @@ GSI 的AndroidP
 - 息屏双击唤醒
 - 口袋模式
 - Gcam设置闪退
+### Solution
+- 三段式
+**可在Google Play上下载Notification Slider可以使用三段式开关（alert slider）**
